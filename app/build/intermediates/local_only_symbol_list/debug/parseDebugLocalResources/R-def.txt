@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable not_available
+id img_headline
+id main
+id main_container
+id recycler_main
+id text_source
+id text_title
+layout activity_main
+layout headline_list_items
+mipmap ic_launcher
+mipmap ic_launcher_round
+string api_key
+string app_name
+style Base.Theme.NEWSUNIVERSE
+style Theme.NEWSUNIVERSE
+xml backup_rules
+xml data_extraction_rules

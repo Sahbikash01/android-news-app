@@ -87,7 +87,6 @@ android-news-app/
 ├── README.md
 └── build.gradle
 ```
-
 ## Application Architecture
 
 - Follows **MVC (Model–View–Controller)** architecture
@@ -154,8 +153,7 @@ The project demonstrates strong Android fundamentals, REST API integration, and 
 ---
 
 ## Author & Contact
-Software Engineer
-**Bikash Sah**  
-- Email: sahbikash87@gmail.com
-- LinkedIn: https://linkedin.com/in/bikash-sah-asp01 
 
+**Bikash Sah**  
+- Email : sahbikash87@gmail.com  
+- LinkedIn: https://linkedin.com/in/bikash-sah-asp01

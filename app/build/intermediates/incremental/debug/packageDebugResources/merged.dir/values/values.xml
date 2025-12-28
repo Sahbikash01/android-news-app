@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="api_key">a3026e99810f48ed800e713e25477d33</string>
+    <string name="app_name">NEWS UNIVERSE</string>
+    <style name="Base.Theme.NEWSUNIVERSE" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.NEWSUNIVERSE" parent="Base.Theme.NEWSUNIVERSE"/>
+</resources>

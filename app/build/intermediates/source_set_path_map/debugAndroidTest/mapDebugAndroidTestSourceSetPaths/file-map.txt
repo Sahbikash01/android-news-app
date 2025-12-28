@@ -1,0 +1,5 @@
+com.gnit.newsuniverse.test.app-androidTest-0 C:\News Project\app\build\generated\res\resValues\androidTest\debug
+com.gnit.newsuniverse.test.app-mergeDebugAndroidTestResources-1 C:\News Project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.gnit.newsuniverse.test.app-mergeDebugAndroidTestResources-2 C:\News Project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.gnit.newsuniverse.test.app-debugAndroidTest-3 C:\News Project\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.gnit.newsuniverse.test.app-core-1.6.1-4 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\630cc4b73742e790d7f9b05ad5508ce5\transformed\core-1.6.1\res

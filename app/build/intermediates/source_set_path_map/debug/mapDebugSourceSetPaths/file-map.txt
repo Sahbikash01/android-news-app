@@ -1,0 +1,35 @@
+com.gnit.newsuniverse.app-pngs-0 C:\News Project\app\build\generated\res\pngs\debug
+com.gnit.newsuniverse.app-resValues-1 C:\News Project\app\build\generated\res\resValues\debug
+com.gnit.newsuniverse.app-packageDebugResources-2 C:\News Project\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.gnit.newsuniverse.app-packageDebugResources-3 C:\News Project\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.gnit.newsuniverse.app-debug-4 C:\News Project\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.gnit.newsuniverse.app-debug-5 C:\News Project\app\src\debug\res
+com.gnit.newsuniverse.app-main-6 C:\News Project\app\src\main\res
+com.gnit.newsuniverse.app-cardview-1.0.0-7 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\1554a9a9a3cd8596f19728b90f060f3f\transformed\cardview-1.0.0\res
+com.gnit.newsuniverse.app-profileinstaller-1.4.0-8 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\24d256b0eda3004909f30047ac18a58c\transformed\profileinstaller-1.4.0\res
+com.gnit.newsuniverse.app-transition-1.5.0-9 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\2fa224e2270b745ad4d93f68288a9ce0\transformed\transition-1.5.0\res
+com.gnit.newsuniverse.app-core-runtime-2.2.0-10 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\49b43bf703c74f0c5602dd8f51e76923\transformed\core-runtime-2.2.0\res
+com.gnit.newsuniverse.app-lifecycle-livedata-2.6.2-11 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\4cb6c17ff4e7c85fe1c249dfa3ad6aa4\transformed\lifecycle-livedata-2.6.2\res
+com.gnit.newsuniverse.app-savedstate-1.2.1-12 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\4f96dab74adf7366d0e1506d4afb7905\transformed\savedstate-1.2.1\res
+com.gnit.newsuniverse.app-core-ktx-1.13.0-13 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\540fd5ca875a83acddcaa3b70b7732b8\transformed\core-ktx-1.13.0\res
+com.gnit.newsuniverse.app-emoji2-1.3.0-14 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\6117675ccd9a8a1f63190fc9fcb8484b\transformed\emoji2-1.3.0\res
+com.gnit.newsuniverse.app-activity-1.10.1-15 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\614e0f727022e350376fd5d7d5c4a8c6\transformed\activity-1.10.1\res
+com.gnit.newsuniverse.app-lifecycle-livedata-core-2.6.2-16 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\6810c35bf054189d61407806a24e6009\transformed\lifecycle-livedata-core-2.6.2\res
+com.gnit.newsuniverse.app-lifecycle-runtime-2.6.2-17 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\720b540e0931d2464988214dbe569057\transformed\lifecycle-runtime-2.6.2\res
+com.gnit.newsuniverse.app-material-1.12.0-18 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\79c099299667b81bd03c8cc13437c017\transformed\material-1.12.0\res
+com.gnit.newsuniverse.app-recyclerview-1.1.0-19 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\7f7f702437abfb3f1795bbc64a571515\transformed\recyclerview-1.1.0\res
+com.gnit.newsuniverse.app-appcompat-1.7.0-20 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\875e417ce37b021efa32ab99d07cde4d\transformed\appcompat-1.7.0\res
+com.gnit.newsuniverse.app-lifecycle-viewmodel-savedstate-2.6.2-21 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\887da03fd4e3b4f2540d67671f7029f2\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.gnit.newsuniverse.app-constraintlayout-2.2.1-22 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\8c806d383806a7e4ea6bc6d33b3bc842\transformed\constraintlayout-2.2.1\res
+com.gnit.newsuniverse.app-coordinatorlayout-1.1.0-23 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\8fb67b8c6167f16a4b261f60b5a78021\transformed\coordinatorlayout-1.1.0\res
+com.gnit.newsuniverse.app-appcompat-resources-1.7.0-24 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\98b80af0fea74e6087b184ab00dc6e9a\transformed\appcompat-resources-1.7.0\res
+com.gnit.newsuniverse.app-emoji2-views-helper-1.3.0-25 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\a63d1ffba2daa7296945caf30072da1d\transformed\emoji2-views-helper-1.3.0\res
+com.gnit.newsuniverse.app-startup-runtime-1.1.1-26 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\b7f50c5feff06a876ab8325146c159aa\transformed\startup-runtime-1.1.1\res
+com.gnit.newsuniverse.app-core-1.13.0-27 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\cdf31520ed56cf2f4a2ad537fb548908\transformed\core-1.13.0\res
+com.gnit.newsuniverse.app-annotation-experimental-1.4.0-28 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\d0c57a692262c550118a01387087d593\transformed\annotation-experimental-1.4.0\res
+com.gnit.newsuniverse.app-lifecycle-viewmodel-2.6.2-29 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\dce6ad8a14fb09ff7e6a77aafbaf6316\transformed\lifecycle-viewmodel-2.6.2\res
+com.gnit.newsuniverse.app-fragment-1.5.4-30 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\ef164ee78c2780dde74876dfcf370b1f\transformed\fragment-1.5.4\res
+com.gnit.newsuniverse.app-drawerlayout-1.1.1-31 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\fa04febca22f6f94922f388534f919d1\transformed\drawerlayout-1.1.1\res
+com.gnit.newsuniverse.app-core-viewtree-1.0.0-32 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\fdc5d31ad43d9d58f57ff3df1a5ec898\transformed\core-viewtree-1.0.0\res
+com.gnit.newsuniverse.app-viewpager2-1.0.0-33 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\fe02bebcffef888c1a1c580c0644ce22\transformed\viewpager2-1.0.0\res
+com.gnit.newsuniverse.app-lifecycle-process-2.6.2-34 C:\Users\sahbi\.gradle\caches\8.10.2\transforms\ff1b7a1dc9d9fc17b7cd0e98cb755090\transformed\lifecycle-process-2.6.2\res
