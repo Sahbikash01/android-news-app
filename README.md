@@ -18,7 +18,7 @@ A real-time Android news application that fetches and displays the latest news u
 - [How to Run This Project](#how-to-run-this-project)
 - [Results & Conclusion](#results--conclusion)
 - [Future Work](#future-work)
-- [Author & Contact](#author--contact)
+- [Team Members](#Team--Members)
 
 ---
 
@@ -152,7 +152,7 @@ The project demonstrates strong Android fundamentals, REST API integration, and 
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 - **Bikash Sah** – Android Development, REST API Integration, UI Design, GitHub & Version Control  
 - **Sowbhagya Laxmi Das** – Testing, Debugging & Performance Optimization
