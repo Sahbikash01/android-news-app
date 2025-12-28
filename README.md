@@ -152,7 +152,7 @@ The project demonstrates strong Android fundamentals, REST API integration, and 
 
 ---
 
-##  Team Members
+## Team Members
 
 - **Bikash Sah** – Android Development, REST API Integration, UI Design, GitHub & Version Control  
 - **Sowbhagya Laxmi Das** – Testing, Debugging & Performance Optimization
