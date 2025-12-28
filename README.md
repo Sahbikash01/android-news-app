@@ -18,7 +18,7 @@ A real-time Android news application that fetches and displays the latest news u
 - [How to Run This Project](#how-to-run-this-project)
 - [Results & Conclusion](#results--conclusion)
 - [Future Work](#future-work)
-- [Team Members](#Team--Members)
+- [Team Members](#team--Members)
 
 ---
 
