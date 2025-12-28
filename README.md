@@ -152,8 +152,12 @@ The project demonstrates strong Android fundamentals, REST API integration, and 
 
 ---
 
-## Author & Contact
+## 👥 Team Members
 
-**Bikash Sah**  
-- Email : sahbikash87@gmail.com  
-- LinkedIn: https://linkedin.com/in/bikash-sah-asp01
+- **Bikash Sah** – Android Development, REST API Integration, UI Design, GitHub & Version Control  
+- **Sowbhagya Laxmi Das** – Testing, Debugging & Performance Optimization
+- **Arijit Pan** – UI/UX Design & XML Layout Development  
+- **Abdur Johir Alom** – API Research, Data Handling & JSON Parsing 
+- **Supreeti Debnath** – Documentation, Project Report Writing & Presentation  
+- **Tanuka Jana** – Requirement Analysis, Feature Planning & Deployment Support
+---
